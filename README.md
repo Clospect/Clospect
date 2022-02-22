@@ -9,7 +9,7 @@
 - 💼 &nbsp; Full-Stack Developer and CyberSecurity Expert.
 - 🌱 &nbsp; Enthusiast in cyber Security, Web Development and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
  
